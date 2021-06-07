@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PFARN
-- 👀 I’m interested in Android Stuff 
-- I'll try to make an Custom Kernel for Redmi Note 10 (Mojito/Sunny)
+- 👀 I’m interested in learn about Android stuff
 
 <!---
 PFARN/PFARN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
